@@ -1,4 +1,4 @@
 # rohan
 This is my first git repositry
 <br>
-Author- Rohan Arshad
+Author- Muhammad Rohan Arshad
